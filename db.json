@@ -1,0 +1,118 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "images": "https://s3-alpha-sig.figma.com/img/7a8d/2547/2a61cffee838cf588c90ce1fcfaedae7?Expires=1671408000&Signature=S2rlZfY3tnJh1YzZHYbmSZSFEl5gdqJbBxU51Z8aXmkXLpgdXDDKI3xdivvRzQeYuszCadiHcZbVr~mj9TKUHJs-YWSA1TRoLfvnhpRZO-12Fq4SmMGRX2RMp3-YBQ9SZd-z8eneDD4vQQojAK6x2nKRMDVM7puKFuxlcwKkPyBQzNRO9atyTyP634insGejtaDQITaol4lUQskdzXZXi8Rp8nPzm5ahpsDpE~wL3kLbFQ5X9MvLqayvceiveNtsQ7j~h-snnFHhYlsZnkzAQlCUP0zkkFNN9ZCfD~0kSxv7lw8grvyhEzEAPF7j1sG2ZEqv0tYiNIIhXvatd9GDIA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Bring Your Human to Work",
+      "authorName": "Erica Keswin",
+      "readingTime": "13-Minute time",
+      "status": "Reading",
+      "type": "featured"
+    },
+    {
+      "id": "2",
+      "images": "https://s3-alpha-sig.figma.com/img/076f/7bd2/672e13400982c462d295d772e14f20a8?Expires=1671408000&Signature=BSV-u3pCONuzmB0DS1fS1tgYm5uI9jft7~AjlEc8EpYJ8lFpid~uDs1ewzR3fV26CAt2yz3Mrhg0JwGFQYcecu3p4~crmIHozHlUCxblumz7rXoQOdvb2A~qNNCEhvfjoW5I7MTW7T~u4K2rtOD4g~RuVRlMdosdZcCRL8Loy-2~WR-ZP-iRu6EOOvjbixXOiBv3F8zrCqvix1KfTTTcDZXNBJ5tjztWfaxoS175jl0jtqeGKrq-124VhvZEtj-SrCmBc6zFgQhdSBbGcDHMaOz9LjIyd4b1pdQDSzLTIq87GpMKo-Ss1BCNQyuol9JBUGS5NZQrnX0hI9aPHX9Jkg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Doesn't Hurt to Ask",
+      "authorName": "Trey Gowdy",
+      "readingTime": "13-Minute time",
+      "personRead": "1.9k reads",
+      "status": "Finished",
+      "type": "featured"
+    },
+    {
+      "id": "3",
+      "images": "https://s3-alpha-sig.figma.com/img/6c72/6047/7882428f1a8f3edfd789a93af55c0906?Expires=1671408000&Signature=Q8mj4i9sVriWPc5eT7AdM2UghPxquRt8ZoPxACHICbIDCnrIH~JBlMetYDJj4QlWEj-PI7mtKCzIBSooURDBshEgCi66B7Glhnd5sdOOEfbxH3Aqjg1qrylIW0aQU0OvZaEsidQa0obIs4dJt5i8qY6vpw24EWEJiwTq7HS8mEsrxkwvvAjwWe2T17MRG~bgEndI2~NJnrTtjpuS~XNc~vrbu~-9wv6H8D0hkuikv~q6NEJrr0REIsUT3KRdmFn0~3rT04qSCRZqPMF3aQGq1wvvVKCvrJa3I5nyE6zf1a0sOiEMgUXwUiiYkp2LzTKyg6t7X2N~h1xKsBhLjld8Zg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Live of the Stoics",
+      "authorName": "Ryan Holiday, Stephan Hansel",
+      "readingTime": "15-Minute time",
+      "status": "Reading",
+      "type": "trending"
+    },
+    {
+      "id": "4",
+      "images": "https://s3-alpha-sig.figma.com/img/79e2/7cec/04adb2cb7e21de32e3cb65a829e1011d?Expires=1671408000&Signature=A2Sdq2wnqlBwodAhD7uEJnxlDm2dr0AajWcOrIwNWgtIWNw35yiXfyU0-OupLICWvBTCn2u-9lPwTj1HpsfEneQuWAmmFPvHyTJQXGqxEy2kHJorX8vertkctATSqrs65MNoD43i2gNGvXkIvQyiHODkND~4l7yREpA3pqyWuNqB5bwSBZnkFzsmJ1wc81VUf~xOSguYYQPvJNT5jf8c1exX5NDfvBf-9BvdGQPRroCxlf4xDRTQSs40~BDZafVVSsPzsk8hnOfB6B4DMSv0g~W23nlPlMf7WYtkYXjLfx7cqYtrRjQgT9mBUMMIEw5Y9eCv~KkvbUf4pGC7WprBgg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "The Lonely Century",
+      "authorName": "Noreena Hertz",
+      "readingTime": "13-Minute time",
+      "status": "Finished",
+      "type": "newlyAdded"
+    },
+    {
+      "id": "5",
+      "images": "https://s3-alpha-sig.figma.com/img/a8fa/012a/eea7424ebbc307ee55ae23ab1b355ce2?Expires=1671408000&Signature=VDqlzILAtAGzMKsKAzm5HtUxVgS1y0~Uy00d0FQghEPojR8BUEH9ysqK1m2o2CaM8N~RNuUwBiKJLRcPjFJzo~Rbn-QGsGepR1wBlkMpRQRAC1~YsiysLaV3igVR7CXuX~rfl-lyHbvQt6~z-KReHRxddwd4LVaDukd29-u1qMFVX6lhCNMDTb63evE5rHiOanJ5uvJUCi9LwN-IoLToXSgLwB8UyMR1Moign59~Nxy3dK63a~VivPZEugP-hjbzaf4QmkoVaD~a0ZntHQMPliWT6k1p63xx-cQF3Aek5vWBDgg8YVyEh76YlbwegLMEdNpQGR3rxjkkGjiVTjycxg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Eat Better, Feel Better",
+      "authorName": "Giada de Laurentis",
+      "readingTime": "13-Minute time",
+      "personRead": "1.9k reads",
+      "status": "New",
+      "type": "newlyAdded"
+    },
+    {
+      "id": "6",
+      "images": "https://s3-alpha-sig.figma.com/img/643d/d789/e66ced625e5439bacbcbe2128c0f2303?Expires=1671408000&Signature=J93r119HEQUNwc3yzGxbyEjA6xTP-~r-K331AmerGK26RBlKtqRYY0AnjAyZ1v1BltNNMWTgp8SADspLa20p82LH35HeG29XuXXDwFJqvAtawCUyI4c2dXCd~jDtw8fGFw7~HooBN-bv~VpG3DQO9L1xqiMG9EWglIFmrUn6OHSv8XoNNtdPRjP1K2GrykKNthqUXLhyE9fFETwgj9XgJkbg~nZV9RDBOq8GBQt6yPgb0IVK8v~x~2EqOG7kij7Q6OcpAQW-7QubQYLv71JOve11zTpYqR6hS4zOWfo2q0wYCHEkGftA-bBzQbXJwM-Bc7Lt2s5hskhbKBxnkOf~CA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "DropShipping",
+      "authorName": "James Moore",
+      "readingTime": "12-Minute time",
+      "status": "Finished",
+      "type": "newlyAdded"
+    },
+    {
+      "id": "7",
+      "images": "https://s3-alpha-sig.figma.com/img/a029/7cf3/8283a77df75b8b9996b5539a7e94c40c?Expires=1671408000&Signature=WjN2u6WMkUbRKW8gOwzACKG3s7st0Xblbggvzo8Ib0uPxnhYmiFctFlLwqziP9P3dZVTYBntHyyQ8PI~e9SEedbX9VQr3YBEdHHoOyv9lafQUN9Pu0Hxo9A6NjvRx6Qx50vPhP6YjeftY6OMiLwtpcTKW7RMYidB1GbVukhLRigTWvzaOTeWVZ79VMMd-Q4Nm8a2-9s86fEhJ3whT2l-kxiaFhO4-y902-zHP-44pNO6jkrRYYq8Fbh3vNPX-PcgD1mobVG~hMQjte5WWRA--JKRsMXgtPx-4ujKlaVeQdEdtIj9KcfOasal72r3gSllfRiSDjtSr6w-ofugnRIGTQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "The Fate of Food",
+      "authorName": "Ananda Little",
+      "readingTime": "15-Minute time",
+      "personRead": "1.9k reads",
+      "status": "Reading",
+      "type": "trending"
+    },
+    {
+      "id": "8",
+      "images": "https://s3-alpha-sig.figma.com/img/f789/7b02/2da4a7f458cc476fb504b5ec892de6bf?Expires=1671408000&Signature=c8FbWTmoyU-MLDUHnrQBU0oJH1uqUoMRQKn4BJAeLWlFcIfCDiaYMI1pcc2Vzlo~N2bvJZ5yVUnataUcau3I~GrJ4N55NpJCOtBqREjN5V8KEwOKh3yDPq1Tte59B9QxuOoxJI78ystOtOg8HTyfrSRAiw8Og8CHSPNtP2XoMmiU9zOAPePkERSX~jz-dn6Ux1u1724hiCahLgiVsZT8GsUjYoE3NUCWuxAqkTy4M5TNY1dVGrpyM4K8NGFaqEGG-LCpNeAnmV5TX3QWCGmI4f8SE1R~V-kEJ1I0t8bYRaGZyWCsFb4OlyeJe~UGErx0Et4HAh0tVeg4hA1NDatnuQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Loving Your Business",
+      "authorName": "Debbie King",
+      "readingTime": "13-Minute time",
+      "status": "Reading",
+      "type": "trending"
+    },
+    {
+      "id": "9",
+      "images": "https://s3-alpha-sig.figma.com/img/3e9a/001d/986c218c11bd0e5acb50c36d5e3ce117?Expires=1671408000&Signature=JS~688egHJrli3lL-4MgQ-mGc3pC-xfmlbZIVb8na96xXRcJcCxgYgZygexNrBLofXDelVHoAP0gOOjEoxo2RxVc~52lszLHAn1xnv1N3nY8Dk1Mm614gbabosEQLKRyCDU-2rfHkaJ2vuU9oY10rPCUg3yzHDkGq~kOOORgpnTNzDHmrerL~-fiPJLJuhSsNgLThXxeIAl3fyEyvwjJa3sBZjG082ddMyViEorcicC99deytHMRZsuYSAgCI4j65-2yaMKqDrN0qv6tLpsYJUUiTMEuuSxGTJ~DtZxg0lpkpHrrOk2AAncjNYjEzptEY9G1AS4ZuBJLyqt~S0tQ2g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Employee to Enterpreneur",
+      "authorName": "Steve Glaveski",
+      "readingTime": "15-Minute time",
+      "personRead": "1.9k reads",
+      "status": "Reading",
+      "type": "trending"
+    },
+    {
+      "id": "10",
+      "images": "https://s3-alpha-sig.figma.com/img/d6ff/11bb/88b0e65d07ed5e88976fd6ef79c2890d?Expires=1671408000&Signature=StnXqnLkiqERq1FtBYMetaJnlK0iRotd5LqnGJSFzUD9an6fzyfWb7l7t30a~INVXUBvFe2R6r1XIgOxkuco7RsszCetOxggazKgmqUpH~crnOIVupOm7oecRdc-k2zWjpCpH1E6jL95yMwJCgxm8o3hXNTL919DkkWodO0XMyI9rcTtpUTG2MZ~IA7vzZL~S41ZQauidFw4AOhWQqJ7qVUVCUix4o24WSwhPrRw5510sTFZ9rjlouvifHhPqZrBXctxzVTUNE0XlQH-BAEnl3rvmzGluNqlDBm0MT72fIK5loQZpB2LMll~60cwv~6nASe1iBoRTLqsrt1t9OzvSA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Being Boss",
+      "authorName": "Kathleen shannon and Emily...",
+      "readingTime": "13-minute read",
+      "status": "Reading",
+      "type": "trending"
+    },
+    {
+      "id": "11",
+      "images": "https://s3-alpha-sig.figma.com/img/9ef8/4879/159f1a8fdf9dafb9b0fd0b3a69170efb?Expires=1671408000&Signature=RGv0l73Gf3Wv9obCS8d94WCR~K4Wt49LGBnNoFbb4WZQzdfpWuDp-pbG9f5JDSpLML2CUB0Qxvzgfb20TAYexSisdMHgZqw5tQ6HgR3zFTIyPBZDYxC-iLHtONR9N6ymMk03vmFIO1wgpwwXnNbk2tSkyGqVkcgoMv38QhiEDpRG4Pq89EnMq38g2XZ9vp303wO-m9rqCgCS-lbK5EdypcL04eERyWtyKjCx9oUFijT3OAEtmf-3IWh~MhUMElLKtm5FKNMcorTapYaOuLrieb13GQ3x1z5~Vc8mFb1Mrm1g8dgQO~NFdhDgY0wbNAT0TQWl6qLV1GH97h5HvappZQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "alt": "book",
+      "bookName": "Beyond Enterpreneurship",
+      "authorName": "Jims collins & Bill Lazier",
+      "readingTime": "13-Minute time",
+      "status": "Finished",
+      "type": "trending"
+    }
+  ]
+}
